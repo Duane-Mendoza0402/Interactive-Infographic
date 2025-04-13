@@ -1,0 +1,83 @@
+﻿{"frames": {
+
+"CachedBmp_2":
+{
+	"frame": {"x":0,"y":1879,"w":1609,"h":88},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1609,"h":88},
+	"sourceSize": {"w":1609,"h":88}
+},
+"CachedBmp_7":
+{
+	"frame": {"x":0,"y":1003,"w":1168,"h":249},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1168,"h":249},
+	"sourceSize": {"w":1168,"h":249}
+},
+"Image_1":
+{
+	"frame": {"x":1684,"y":1003,"w":360,"h":360},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":360,"h":360},
+	"sourceSize": {"w":360,"h":360}
+},
+"Image_11":
+{
+	"frame": {"x":0,"y":1254,"w":512,"h":512},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":512},
+	"sourceSize": {"w":512,"h":512}
+},
+"Image_3":
+{
+	"frame": {"x":1170,"y":1003,"w":512,"h":512},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":512},
+	"sourceSize": {"w":512,"h":512}
+},
+"Image_4":
+{
+	"frame": {"x":1548,"y":1517,"w":500,"h":284},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":500,"h":284},
+	"sourceSize": {"w":500,"h":284}
+},
+"Image_5":
+{
+	"frame": {"x":973,"y":1517,"w":573,"h":360},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":573,"h":360},
+	"sourceSize": {"w":573,"h":360}
+},
+"Image_7":
+{
+	"frame": {"x":0,"y":0,"w":1923,"h":1001},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1923,"h":1001},
+	"sourceSize": {"w":1923,"h":1001}
+},
+"Image_9":
+{
+	"frame": {"x":514,"y":1254,"w":457,"h":565},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":457,"h":565},
+	"sourceSize": {"w":457,"h":565}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "24.0.8.70",
+	"image": "Mendoza_MMA201.Midterm Output Exam_atlas_9.png",
+	"format": "undefined",
+	"size": {"w":2048,"h":2048},
+	"scale": "1"
+}
+}
